@@ -1,0 +1,19 @@
+{
+    "producto":
+    [
+        {
+            "Id":1,
+            "Nombre": "Mouse",
+            "Descripcion":"Genius",
+            "Precio":"30.00",
+            "ImagenUrl":"https://support.content.office.net/es-es/media/e8384959-ad1a-1b95-762b-2861496b886e.png"
+        },
+        {
+            "Id":2,
+            "Nombre": "Teclado",
+            "Descripcion":"Marca HP",
+            "Precio":"50.00",
+            "ImagenUrl":"https://www.chuwi.com/public/upload/image/20230208/f3bb643dcd24141261324785d0c8523b.jpg"
+        }
+    ]
+}
